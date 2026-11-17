@@ -1,3 +1,11 @@
+## 🛠️ Personal Customizations & Enhancements
+Maintained and customized by **Shreya Sneha** as part of an offline AI engineering and technical interview preparation suite. 
+
+* **Enhanced Local Architecture:** Configured and optimized to run seamlessly with local LLMs (via Ollama) and FastAPI/React backends for zero-cost, private technical practice.
+* **Target Domains:** Tailored for rigorous coding prep covering SQL, Python/DSA, Applied ML, System Design, and AI/LLM engineering.
+
+---
+
 # 🏋️ Interview Gym
 
 A **local, offline, LeetCode-style practice app** for data science / ML / AI engineer interviews — SQL, Python/DSA, applied ML, system design, and AI/LLM engineering — with an AI mentor that runs entirely on your own machine.
