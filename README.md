@@ -6,7 +6,7 @@ Maintained and customized by **Shreya Sneha** as part of an offline AI engineeri
 
 ---
 
-# 🏋️ Interview Gym
+# 🏋️ AI-Interview-Arena
 
 A **local, offline, LeetCode-style practice app** for data science / ML / AI engineer interviews — SQL, Python/DSA, applied ML, system design, and AI/LLM engineering — with an AI mentor that runs entirely on your own machine.
 
